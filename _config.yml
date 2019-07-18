@@ -3,19 +3,20 @@ title: "Cybertus"
 bye_message: "Thx!"
 baseurl: ""
 url: "https://cybertus.github.io"
-disqus: Cybertus
+disqus: cybertus
 
 # Header settings
 nick: "Cybertus"
 mail:
+    nick: a1ru
     domain: "protonmail"
     ext: "com"
 source_code:
     server: "github.com"
-    nick: "Cybertus"
+    nick: "cybertus"
 blog:
     server: "wordpress.com"
-    nick: "Cybertus"
+    nick: "cybertus"
 fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings
