@@ -8,7 +8,10 @@
     printf(<a href="https://{{ site.source_code.server }}/{{ site.source_code.nick }}" target="_blank"><span class="string">"https://{{ site.source_code.server }}/<span class="reserved">%s\n</span>"</span></a>,{{ site.source_code.nick }});
     </p>
     <p>
-    printf(<span class="string">"<span class="reserved">%s\x40</span>{{ site.mail.domain }}<span class="reserved">\x2e\\\b</span>{{ site.mail.ext }}<span class="reserved">\n</span>"</span>,{{ site.mail.nick }});
+      printf(<a href="https://{{ site.twitter.server }}/{{ site.twitter.nick }}" target="_blank"><span class="string">"https://{{ site.twitter.server }}/<span class="reserved">%s\n</span>"</span></a>,{{ site.twitter.nick }});
+    </p>
+    <p>
+      printf(<a href="https://{{ site.linkedin.server }}/{{ site.linkedin.nick }}" target="_blank"><span class="string">"https://{{ site.linkedin.server }}/<span class="reserved">%s\n</span>"</span></a>,{{ site.linkedin.nick }});
     </p>
     <!-- <p>
             printf(<a href="https://{{ site.blog.nick }}.{{ site.blog.server }}" target="_blank"><span class="string">"https://<span class="reserved">%s</span>.{{ site.blog.server }}<span class="reserved">\n</span>"</span></a>,nick);

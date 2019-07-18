@@ -7,16 +7,15 @@ disqus: cybertus
 
 # Header settings
 nick: "Cybertus"
-mail:
-    nick: a1ru
-    domain: "protonmail"
-    ext: "com"
+twitter:
+    server: "twitter.com"
+    nick: "TheCybertus"
 source_code:
     server: "github.com"
     nick: "cybertus"
-blog:
-    server: "wordpress.com"
-    nick: "cybertus"
+linkedin:
+    server: "linkedin.com/in"
+    nick: "alrubal"
 fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings
