@@ -2,7 +2,6 @@
 layout: content
 ---
 
-### About
 
 [https://cybertus.github.io/](https://cybertus.github.io/)
 
