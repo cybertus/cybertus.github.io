@@ -1,9 +1,10 @@
 ---
 layout: content
+title: "Home"
+
 ---
 
-# Home
-a
+
 
 ### About
 
