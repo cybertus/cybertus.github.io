@@ -1,19 +1,19 @@
 ---
 layout: post
-title:	"Redimensionar partições LVM"
-date:	2017-04-11 03:00:00
+title:	"Security Onion: Qué es e instalación Standalone"
+date:	2019-07-19 03:00:00
 categories:
     - blog
 tags:
-    - linux
-    - lvm
+    - BlueTeam
+    - Monitoring
+    - SecurityOnion
 ---
 
-Em um post passado, mostrando como fazer a [instalação do Arch Linux \[0\]][0], utilizei do LVM para gerenciar os discos. Lá falei um pouco mais da teoria por trás dele e tal. Aqui vou me ater mesmo a repassar o passo a passo utilizado para isso.
+La semana pasada di una charla en la Hack & Beers de Vigo y estuve hablando sobre Security Onion. Esto me animó a crear una serie de posts sobre el tema y comenzar de una vez por todas con este blog.
 
-Uma questão a ser dita é que o LVM nos dá a possibilidade de poder redimensionar nossas partições sem desligar o sistema. Acontece que a depender de sua aplicação, mesmo que não dê um shutdown no sistema, as consequências podem ser as mesmas. Explico: para aumentar o tamanho da partição é moleza, dá para fazer sem mais nem menos. Agora para diminuir o volume de uma partição tem de desmontá-la e tudo mais. E isso para alguns pode ser um grande problema.
+Security Onion es una distribución de linux gratuita, que ofrece múltiples herramientas de monitorización de red. El siguiente gráfico muestra, a alto nivel, cuáles son los servicios que nos ayudarán con dicha monitorización.
 
-Mas enfim, vamos lá...
 
 ## Reduzir o tamanho
 
