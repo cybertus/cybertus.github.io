@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"Security Onion: Qué es e instalación Standalone"
-date:	2019-08-06 13:00:00
+date:	2019-08-06 00:00:00
 categories:
     - blog
 tags:
